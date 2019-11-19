@@ -1,4 +1,4 @@
-![exhibition-pic](/Users/m/repos/clearid/exhibition-pic.jpg)
+![exhibition-pic](https://raw.githubusercontent.com/marcdacosta/clearid/master/exhibition-pic.jpg?token=AAMO2D6XX4UGZZXYDGBIQOK53U43M)
 
 # Clear ID
 
@@ -10,11 +10,11 @@ Clear ID was first shown at the Mozilla-Tactical Tech [Glass Room Exhibition](ht
 
 
 
-## ![barcode-printout](/Users/m/repos/clearid/barcode-printout.png)
+## ![barcode-printout](https://raw.githubusercontent.com/marcdacosta/clearid/master/barcode-printout.png?token=AAMO2D6EO6T25J3V3APS7L253U43O)
 
 ## How the barcode works
 
-The barcode on the reverse of a driver's license is encoded using the [PDF417](https://en.wikipedia.org/wiki/PDF417) standard. Anytime you see a barcode, it's just a graphical way of representing some text ([see more](https://simple.wikipedia.org/wiki/Barcode)). The [American Association of Motor Vehicle Administrators](https://www.aamva.org/) (AAMVA) sets a national standard for what data should be in the barcode and the standard way it should be formatted. In the image above, the `Barcode Contents` string of text is a direct representation of what is in the barcode above it. The AAMVA sets a standard for how that string of text should be formatted and how the field names are abbreviated. For a complete listing of embedded data fields see section `D.12.5.1 ` in the AAMVA DL/ID Card Design Standard (2016). 
+The barcode on the reverse of a driver's license is encoded using the [PDF417](https://en.wikipedia.org/wiki/PDF417) standard. Anytime you see a barcode, it's just a graphical way of representing some text ([see more](https://simple.wikipedia.org/wiki/Barcode)). The [American Association of Motor Vehicle Administrators](https://www.aamva.org/) (AAMVA) sets a national standard for what data should be in the barcode and the standard way it should be formatted. In the image above, the `Barcode Contents` string of text is a direct representation of what is in the barcode above it. The AAMVA sets a standard for how that string of text should be formatted and how the field names are abbreviated. For a complete listing of embedded data fields see section `D.12.5.1 ` in the [AAMVA DL/ID Card Design Standard (2016)](https://github.com/marcdacosta/clearid/blob/master/Drivers%20License%20Design%20Standard%202016.pdf). 
 
 
 
