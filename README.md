@@ -10,7 +10,8 @@ Clear ID was first shown at the Mozilla-Tactical Tech [Glass Room Exhibition](ht
 
 
 
-## ![barcode-printout](https://raw.githubusercontent.com/marcdacosta/clearid/master/barcode-printout.png?token=AAMO2D6EO6T25J3V3APS7L253U43O)
+## Example Clear ID print out
+![barcode-printout](https://raw.githubusercontent.com/marcdacosta/clearid/master/barcode-printout.png?token=AAMO2D6EO6T25J3V3APS7L253U43O)
 
 ## How the barcode works
 
